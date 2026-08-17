@@ -1,0 +1,441 @@
+
+
+
+star pattern programming exercises:::::::::::::::::::::::::::
+
+\---
+
+\---
+
+\*\*\*\*\*    (Square Star Pattern)
+
+\---
+
+\---
+
+\---
+
+* 
+
+  * 
+* 
+
+  * (Hollow Square Star Pattern)
+* 
+
+  * 
+
+\---
+
+\---
+
+\---
+
+* 
+
+  * 
+
+    * (Hollow Square Star Pattern with Diagonal)
+
+\---
+
+\---
+
+&#x20;   \*\*\*\*\*
+
+\---
+
+\*\*\*\*\*   (Rhombus Star Pattern)
+
+\---
+
+\---
+
+&#x20;   \*\*\*\*\*
+
+* 
+
+  * 
+* 
+
+  * (Hollow Rhombus Star Pattern)
+* 
+
+  * 
+
+\---
+
+
+
+\---
+
+\---
+
+\*\*\*\*\*  (Mirrored Rhombus Star Pattern)
+
+\---
+
+&#x20;   \*\*\*\*\*
+
+
+\---
+
+* 
+
+  * 
+* 
+
+  * (Hollow Mirrored Rhombus Star Pattern)
+* 
+
+  * 
+
+&#x20;   \*\*\*\*\*
+
+
+* 
+
+\*\*
+\*\*\*    (Right Triangle Star Pattern)
+
+\---
+
+\---
+
+
+
+* 
+
+\*\*
+
+* 
+
+  * (Hollow Right Triangle Star Pattern)
+* 
+
+  * 
+
+\---
+
+&#x20;   \*
+
+\*\*
+\*\*\*   (Mirrored Right Triangle Star Pattern)
+
+\---
+
+\---
+
+&#x20;   \*
+
+\*\*
+
+* 
+
+  * (Hollow Mirrored Right Triangle Star Pattern)
+* 
+
+  * 
+
+\---
+
+\---
+
+\---
+
+\*\*\*      (Inverted Right Triangle Star Pattern)
+\*\*
+\*
+
+
+
+\---
+
+* 
+
+  * 
+* 
+
+  * (Hollow Inverted Right Triangle Star Pattern)
+\*\*
+* 
+
+
+
+\---
+
+\---
+
+\*\*\*  (Inverted Mirrored Right Triangle Star Pattern)
+\*\*
+\*
+
+
+
+\---
+
+* 
+
+  * 
+* 
+
+  * (Hollow Inverted Mirrored Right Triangle Star Pattern)
+\*\*
+  * 
+  * 
+
+\---
+
+\*\*\*\*\*   (Pyramid Star Pattern)
+
+\---
+
+\---
+
+
+
+&#x20;   \*
+
+* 
+
+  * 
+* 
+
+  * (Hollow Pyramid Star Pattern)
+* \*
+
+\---
+
+
+
+\---
+
+\*\*\*\*\*\*\*   (Inverted Pyramid Star Pattern)
+
+\---
+
+\---
+
+&#x20;   \*
+
+
+
+
+
+\---
+
+* \*
+* 
+
+  * (Hollow Inverted Pyramid Star Pattern)
+* 
+
+  * 
+
+&#x20;   \*
+
+
+
+
+
+* 
+
+\*\*
+
+\---
+
+\---
+
+\*\*\*\*\*  (Half Diamond Star Pattern)
+
+\---
+
+\---
+
+\*\*
+\*
+
+
+
+&#x20;   \*
+
+\*\*
+
+\---
+
+\---
+
+\*\*\*\*\*   (Mirrored Half Diamond Star Pattern)
+
+\---
+
+\---
+
+\*\*
+\*
+
+
+
+&#x20;   \*
+
+\---
+
+\---
+
+\---
+
+\*\*\*\*\*\*\*\*\*   (Diamond Star Pattern)
+
+\---
+
+\---
+
+\---
+
+&#x20;   \*
+
+
+
+
+
+\---
+
+\---
+
+\---
+
+\---
+
+* &#x20;  \*
+* &#x20;  \*    (Hollow Diamond Star Pattern)
+
+\---
+
+\---
+
+\---
+
+\---
+
+
+
+\---
+
+\---
+
+&#x20;   \*\*\*
+      \*\*
+        \*   (Right Arrow Star Pattern)
+      \*\*
+    \*\*\*
+
+\---
+
+\---
+
+&#x20;   \*\*\*\*\*
+
+\---
+
+\---
+
+\*\*
+
+* &#x20;     (Left Arrow Star Pattern)
+
+\*\*
+
+\---
+
+\---
+
+&#x20;   \*\*\*\*\*
+
+
+    +
+    +
+    +
+    +
+
++++++++++    (Plus Star Pattern)
++
++
++
++
+
+
+
+* &#x20; \*
+* \*
+* 
+
+  * 
+* 
+
+  * 
+
+&#x20;   \*        (X Star Pattern)
+
+* 
+
+  * 
+* 
+
+  * 
+* \*
+* &#x20; \*
+
+
+
+
+
+\---
+
+* 
+
+  * 
+* 
+
+  * 
+* 
+
+  * 
+
+\*\*\*     (Eight Star Pattern)
+
+* 
+
+  * 
+* 
+
+  * 
+* 
+
+  * 
+
+\---
+
+
+
+\---
+
+\---
+
+\---
+
+\---
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    (Heart Star Pattern)
+
+\---
+
+\---
+
+&#x20;   \*\*\*\*\*\*\*\*\*\*\*
+     \*\*\*\*\*\*\*\*\*
+      \*\*\*\*\*\*\*
+       \*\*\*\*\*
+        \*\*\*
+         \*
+
+         
