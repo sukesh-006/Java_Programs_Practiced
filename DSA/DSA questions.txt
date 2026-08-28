@@ -1,0 +1,58 @@
+50 DSA Problems — Java Practice
+🟢 Arrays
+Find the largest element in an array.
+Find the second largest element without sorting.
+Reverse an array in-place.
+Find all duplicate elements in an array.
+Move all zeroes to the end while maintaining the order of other elements.
+Find the missing number from an array containing numbers from 1 to N.
+Find the element that appears only once when every other element appears twice.
+Find the intersection of two arrays.
+Find the union of two arrays.
+Rotate an array to the right by K positions.
+🟡 Strings
+Check whether a string is a palindrome.
+Check whether two strings are anagrams.
+Find the first non-repeating character in a string.
+Find the first repeating character in a string.
+Count the frequency of each character in a string.
+Reverse the words in a sentence without reversing the characters inside each word.
+Find the longest word in a sentence.
+Remove duplicate characters from a string.
+Check whether one string is a rotation of another string.
+Find the longest substring without repeating characters.
+🟡 Searching & Sorting
+Implement linear search.
+Implement binary search on a sorted array.
+Find the first and last occurrence of a given element using binary search.
+Find the square root of a number using binary search.
+Implement bubble sort.
+Implement selection sort.
+Implement insertion sort.
+Implement merge sort.
+Implement quick sort.
+Find the Kth largest element in an unsorted array.
+🟠 Two Pointer & Sliding Window
+Find two numbers in a sorted array whose sum equals a given target.
+Find three numbers whose sum is equal to a given target.
+Find the maximum sum of any subarray of size K.
+Find the minimum sum of any subarray of size K.
+Find the minimum-length subarray whose sum is at least a given target.
+Find the longest substring containing at most K distinct characters.
+Find the maximum number of consecutive 1s after flipping at most K zeroes.
+🟠 Stack & Queue
+Check whether a string containing (), {}, and [] has balanced parentheses.
+Implement a stack using an array.
+Implement a queue using an array.
+Find the next greater element for every element in an array.
+Evaluate a postfix expression using a stack.
+Implement a queue using two stacks.
+🔴 Linked List
+Create a singly linked list and insert a node at the beginning, end, and a given position.
+Reverse a singly linked list.
+Find the middle node of a linked list.
+Detect whether a linked list contains a cycle.
+Remove the Nth node from the end of a linked list.
+🔴 Recursion & Trees
+Generate all permutations of a given string using recursion.
+Perform inorder, preorder, and postorder traversal of a binary tree.
